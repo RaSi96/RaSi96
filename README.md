@@ -1,11 +1,11 @@
 Hello and welcome, visitor :)
 
 - 👋 I’m @RaSi96
-- 👀 I’m interested in machine learning, AI, data science, embedded systems engineering and quantum computing.
-- 🌱 I’m currently learning ML, data science and embedded systems engineering.
-- 📚 I'm currently researching high-performance computing and the applications of ML and AI to heterogenous computing elements.
-- 🎓 I'm working towards attaining a Masters degree followed by a PhD in a computer-science related field.
-- 💞️ I’m looking to collaborate on ML, data science or HPC projects.
+- 👀 I’m interested in Machine Learning/Artificial Intelligence applied research and Quantitative Finance.
+- 🌱 I’m currently learning Embedded Systems Engineering, which is a side passion project of mine.
+- 📚 I'm currently researching ML/AI and its extended applications to embedded systems and HSA.
+- 🎓 I'm working towards earning a Masters degree followed by a PhD in a computer-science related field.
+- 💞️ I’m looking to collaborate on ML/AI applied research projects.
 - 📫 You can reach out to me on github, discord (NymoFTW#3498), [linkedin](https://www.linkedin.com/in/rahul-singh-stem/) or singh-rahul@hotmail.com.
 
 <!---
