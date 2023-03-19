@@ -1,11 +1,11 @@
 Hello and welcome, visitor :)
 
-- 👋 I’m @RaSi96
-- 👀 I’m interested in Machine Learning/Artificial Intelligence applied research.
+- 👋 I’m @RaSi96, an experienced Financial Quant, Proprietary Trader, and Analyst.
+- 👀 I’m interested in applied Quantitative and Artificial Intelligence research.
 - 🌱 I’m currently learning Embedded Systems Engineering, which is a side passion project of mine.
-- 📚 I'm currently researching ML/AI and its extended applications to embedded systems and HSA.
-- 🎓 I'm working towards earning a Masters degree followed by a PhD in a computer-science related field.
-- 💞️ I’m looking to collaborate on ML/AI applied research projects.
+- 📚 I'm currently researching the applications of Deep Generative Models and financial asset management strategies with Deep Learning.
+- 🎓 I'm working towards earning a Masters degree followed by a PhD in Computational Finance, or a Computer Science related field.
+- 💞️ I’m looking to collaborate on applied Quantitative/AI research projects.
 - 📫 You can reach out to me on github, discord (NymoFTW#3498), or via the links in my sidebar.
 
 <!---
