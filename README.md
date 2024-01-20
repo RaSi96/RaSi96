@@ -1,12 +1,12 @@
 Hello and welcome, visitor :)
 
-- 👋 I’m @RaSi96, a seasoned Data Scientist and Quant Trader.
-- 👀 I’m involved in roles requiring applied Deep Learning research and ML Engineering.
+- 👋 I'm a seasoned quant trader and data scientist.
+- 👀 I’m involved in roles requiring applied ML research and Engineering.
 - 🌱 I’m currently studying Embedded Systems engineering, which is a side passion project of mine.
-- 📚 I'm currently enjoying research in Graphics and Computer Vision.
-- 🎓 I'm working towards earning my PhD in Computer Vision or general Deep Learning.
-- 💞️ I’m looking to collaborate on pragmatic, impactful applied AI research projects.
-- 📫 You can reach out to me on github, discord (NymoFTW#3498), or via the links in my sidebar.
+- 📚 I'm currently researching the practical nuances of complex-valued & physics-informed neural nets (CVNNs and PINNs).
+- 🎓 I'm working towards earning my PhD in Computational Science and Engineering.
+- 💞️ I’m looking to collaborate on pragmatic applied AI research projects. If you're interested in building _PrOdUcTs_, move along.
+- 📫 You can reach out to me on here or via the links in my sidebar.
 
 <!---
 RaSi96/RaSi96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
