@@ -1,15 +1,8 @@
-Hello and welcome, visitor :)
+Hello and welcome, visitor! :)
 
-I am:
-- 👋 A seasoned data scientist/quant.
-- 👀 Professionally involved in industrial/applied ML research.
-- 📚 Researching the the inner workings of neural nets, heavily inspired by [SETOL](https://www.arxiv.org/abs/2507.17912).
-- 🌱 Also a side data engineer/embedded systems engineer (I do love my C programs).
-- 🎓 Working towards earning my MSc in Mathematical Finance.
-- 💞️ Interested in collaborating with companies at the juncture of ESG data science+quant.
-- 📫 Approachable via the links in my sidebar, or on here.
+I am a seasoned quant trader/data scientist by profession. I like taking new, experimental methods in AI/quant finance and applying them to everyday problems. I also enjoy modelling things, programming simulations to play with, building computers and fiddling around with embedded systems (I do love my C programs). I'm interested in collaborating at the intersection of _actionable_ quant & AI: exploring techniques that actually solve a problem. For example, is bankruptcy an emergent phenomenon in a company's dynamic system, conditional on both endogenous (interally decided leverage & debt financing, or remuneration changes) and exogenous (clientele dynamics, or macro) forcings? Can we uncover such emergent phenomenon using ABM or other computational simulations and techniques? What about market/LOB/liquidity vortices?
 
-For obvious reasons, a lot of my work is proprietary and therefore will not be in publicly available repos. Peripheral code and/or publications/articles (data redacted) will be as much as possible, however.
+Please feel free to approach me using the links in my sidebar, or on here directly (somehow). Note also that for obvious reasons, a lot of my work is proprietary and therefore might not be publicly available.
 
 ❤️ Choose life. ❤️
 
